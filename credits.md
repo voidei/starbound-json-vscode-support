@@ -1,4 +1,6 @@
-# CREDITS
+---
+Title: CREDITS
+---
 
 thanks to [KyleeTehKitty](https://marketplace.visualstudio.com/publishers/KyleeTehKitty) for their Starbound JSON File Syntax
 
